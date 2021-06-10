@@ -1,0 +1,142 @@
+
+{
+
+  "title": "COVID-19 Virus",
+
+  "google": "from Google",
+
+  "home": {
+    "title": "Contents Table",
+    "link": "Home"
+  },
+
+  "statistics": {
+    "title": "Statistics",
+    "va": "Worldwide",
+    "vb": "Egypt",
+    "v1": "Confirmed",
+    "v2": "Critical",
+    "v3": "Death",
+    "v4": "Revcovered",
+    "failed": "Failed to load the data"
+  },
+
+  "overview": {
+    "title": "Overview",
+    "p1": "Coronavirus disease 2019 (COVID-19) is caused by a new coronavirus first identified in Wuhan, China, in December 2019. Because it is a new virus, scientists are learning more each day. Although most people who have COVID-19 have mild symptoms, COVID-19 can also cause severe illness and even death. Some groups, including older adults and people who have certain underlying medical conditions, are at increased risk of severe illness.",
+    "p2": "On February 11, 2020, the World Health Organization announced an official name for the disease that is causing the 2019 novel coronavirus outbreak. The new name of this disease is coronavirus disease 2019, abbreviated as COVID-19. In COVID-19, ‘CO’ stands for ‘corona,’ ‘VI’ for ‘virus,’ and ‘D’ for disease. Formerly, this disease was referred to as “2019 novel coronavirus” or “2019-nCoV.”",
+    "p3": "Coronaviruses, named for the crown-like spikes on their surfaces, are a large family of viruses that are common in people and many different species of animals, including camels, cattle, cats, and bats. There are many types of human coronaviruses, including some that commonly cause mild upper-respiratory tract illnesses. COVID-19 is a new disease, caused by a novel (or new) coronavirus that has not previously been seen in humans.",
+    "p4": "Animal coronaviruses rarely infect people and then spread between people. This occurred with two earlier coronaviruses, MERS-CoV and SARS-CoV.",
+    "p5": "SARS-CoV-2 virus is a beta coronavirus, like MERS-CoV and SARS-CoV. All three of these viruses have their origins in bats. The sequences from U.S. patients are similar to the one that China initially posted, suggesting a likely single, recent emergence of this virus from an animal reservoir. However, the exact source of this virus has not been identified.",
+    "source": "Source"
+  },
+
+  "symptoms": {
+    "title": "Symptoms",
+    "p1": "COVID-19 affects different people in different ways. Most infected people will develop mild to moderate illness and recover without hospitalization.",
+    "p2": {
+      "txt": "Most common symptoms:",
+      "a": "fever",
+      "b": "dry cough",
+      "c": "tiredness"
+    },
+    "p3": {
+      "txt": "Less common symptoms:",
+      "a": "aches and pains",
+      "b": "sore throat",
+      "c": "diarrhoea",
+      "d": "conjunctivitis",
+      "e": "headache",
+      "f": "loss of taste or smell",
+      "g": "a rash on skin, or discolouration of fingers or toes"
+    },
+    "p4": {
+      "txt": "Serious symptoms:",
+      "a": "difficulty breathing or shortness of breath",
+      "b": "chest pain or pressure",
+      "c": "loss of speech or movement"
+    },
+    "p5": "Seek immediate medical attention if you have serious symptoms. Always call before visiting your doctor or health facility.",
+    "p6": "People with mild symptoms who are otherwise healthy should manage their symptoms at home.",
+    "p7": "On average it takes 5–6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days."
+  },
+
+  "prevention": {
+    "title": "Prevention",
+    "p1": "Protect yourself and others around you by knowing the facts and taking appropriate precautions. Follow advice provided by your local health authority.",
+    "p2": {
+      "txt": "To prevent the spread of COVID-19:",
+      "a": "Clean your hands often. Use soap and water, or an alcohol-based hand rub.",
+      "b": "Maintain a safe distance from anyone who is coughing or sneezing.",
+      "c": "Wear a mask when physical distancing is not possible.",
+      "d": "Don’t touch your eyes, nose or mouth.",
+      "e": "Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze.",
+      "f": "Stay home if you feel unwell.",
+      "g": "If you have a fever, cough and difficulty breathing, seek medical attention."
+    },
+    "p3": "Calling in advance allows your healthcare provider to quickly direct you to the right health facility. This protects you, and prevents the spread of viruses and other infections.",
+    "p4": "Masks can help prevent the spread of the virus from the person wearing the mask to others. Masks alone do not protect against COVID-19, and should be combined with physical distancing and hand hygiene. Follow the advice provided by your local health authority."
+  },
+
+  "treatment": {
+    "title": "Treatment",
+    "p1": {
+      "txt": "After exposure to someone who has COVID-19, do the following:",
+      "a": "Call your health care provider or COVID-19 hotline to find out where and when to get a test.",
+      "b": "Cooperate with contact-tracing procedures to stop the spread of the virus.",
+      "c": "If testing is not available, stay home and away from others for 14 days.",
+      "d": "While you are in quarantine, do not go to work, to school or to public places. Ask someone to bring you supplies.",
+      "e": "Keep at least a 1-metre distance from others, even from your family members.",
+      "f": "Wear a medical mask to protect others, including if/when you need to seek medical care.",
+      "g": "Clean your hands frequently.",
+      "h": "Stay in a separate room from other family members, and if not possible, wear a medical mask.",
+      "i": "Keep the room well-ventilated.",
+      "j": "If you share a room, place beds at least 1 metre apart.",
+      "k": "Monitor yourself for any symptoms for 14 days.",
+      "l": "Call your health care provider immediately if you have any of these danger signs: difficulty breathing, loss of speech or mobility, confusion or chest pain.",
+      "m": "Stay positive by keeping in touch with loved ones by phone or online, and by exercising at home."
+    },
+    "p2": {
+      "txt": "Scientists around the world are working to find and develop treatments for COVID-19.",
+      "a": "Optimal supportive care includes oxygen for severely ill patients and those who are at risk for severe disease and more advanced respiratory support such as ventilation for patients who are critically ill.",
+      "b": "Dexamethasone is a corticosteroid that can help reduce the length of time on a ventilator and save lives of patients with severe and critical illness."
+    },
+    "p3": "WHO does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for COVID-19."
+  },
+
+  "coping": {
+    "title": "Coping",
+    "p1": "Be Kind to Your Mind",
+    "p2": "Mental health problems are common. Here are some tips to reduce stress and promote wellbeing",
+    "p3": "Take some slow breaths: in through your nose, then slowly breathe out.",
+    "p4": "Slow breathing is one of the best ways to lower stress, because it signals to your brain to relax your body.",
+    "p5": "Notice how you are feeling and what you are thinking, without judgment. Instead of responding or reacting to those thoughts or feelings, note them, and then let them go.",
+    "p6": "Talking to people you trust can help. Keep in regular contact with people close to you. Tell them how you are feeling and share any concerns.",
+    "p7": {
+      "txt": "Do:",
+      "a": "Get up and go to bed at similar times every day.",
+      "b": "Keep up with personal hygiene.",
+      "c": "Eat healthy meals at regular times.",
+      "d": "Exercise regularly. Just doing 3-4 minutes of light intensity physical movement, such as walking or stretching, will help.",
+      "e": "Allocate time for working and time for resting.",
+      "f": "Make time for doing things you enjoy.",
+      "g": "Take regular breaks from on-screen activities."
+    },
+    "p8": {
+      "txt": "Don’t:",
+      "a": "Don’t use alcohol and drugs as a way of dealing with fear, anxiety, boredom and social isolation."
+    },
+    "p9": "Don’t expect too much of yourself on difficult days. Accept that some days you may be more productive than others.",
+    "p10": "Try to reduce how much you watch, read or listen to news that makes you feel anxious or distressed. Seek the latest information from trusted sources at specific times of the day.",
+    "p11": "Helping others can be good for you too. If you are able to, offer support to people in your community who may need it.",
+    "p12": "Don’t hesitate to seek professional help if you think you need it. A good place to start is your local health worker. Help-lines can also be a source of support."
+  },
+
+  "about": {
+    "title": "About me",
+    "name": "Mohamed Waleed Mohamed Mahmoud Rady",
+    "job": "Web Designer & Developer",
+    "age": "16 years old"
+  }
+
+}

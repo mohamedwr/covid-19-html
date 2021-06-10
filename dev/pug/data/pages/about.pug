@@ -1,0 +1,21 @@
+doctype
+html
+  head
+    include ../../inc/head
+  body
+
+    include ../../inc/header
+    
+    .content
+      .box
+        div(class="box__content" style="font-size: 18px")
+          div(class="box__head")
+            div(class="semititle" data-txt="about.title")
+            a(href="../../home.html" class="box__link" data-txt="home.link")
+          .space
+          p(class="box__p" data-txt="about.name")
+          p(class="box__p" data-txt="about.job")
+          p(class="box__p" data-txt="about.age")
+          p(class="box__p") +201021426331
+
+    include ../../inc/scripts

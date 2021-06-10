@@ -1,0 +1,22 @@
+doctype
+html
+  -var home = true
+  head
+    include inc/head
+  body
+
+    include inc/header
+    
+    .content
+      .box
+        .box_links
+          div(class="semititle" data-txt="home.title")
+          a(href="data/pages/statistics.html" class="box__link" data-txt="statistics.title")
+          a(href="data/pages/overview.html" class="box__link" data-txt="overview.title")
+          a(href="data/pages/symptoms.html" class="box__link" data-txt="symptoms.title")
+          a(href="data/pages/prevention.html" class="box__link" data-txt="prevention.title")
+          a(href="data/pages/treatment.html" class="box__link" data-txt="treatment.title")
+          a(href="data/pages/coping.html" class="box__link" data-txt="coping.title")
+          a(href="data/pages/about.html" class="box__link" data-txt="about.title")
+    
+    include inc/scripts

@@ -1,0 +1,32 @@
+doctype
+html
+  head
+    include ../../inc/head
+  body
+
+    include ../../inc/header
+    
+    .content
+      .box
+        .box__content
+          div(class="box__head")
+            div(class="semititle" data-txt="prevention.title")
+            a(href="../../home.html" class="box__link" data-txt="home.link")
+          p(class="box__p" data-txt="prevention.p1")
+          div(class="box__p")
+            span(data-txt="prevention.p2.txt")
+              ol.box__list
+                li(data-txt="prevention.p2.a")
+                li(data-txt="prevention.p2.b")
+                li(data-txt="prevention.p2.c")
+                li(data-txt="prevention.p2.d")
+                li(data-txt="prevention.p2.e")
+                li(data-txt="prevention.p2.f")
+                li(data-txt="prevention.p2.g")
+          p(class="box__p" data-txt="prevention.p3")
+          p(class="box__p" data-txt="prevention.p4")
+          div.box__img
+            img(src="../images/b.png")
+          div(class="box__src" data-txt="google")
+
+    include ../../inc/scripts

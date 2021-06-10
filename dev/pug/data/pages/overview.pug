@@ -1,0 +1,25 @@
+doctype
+html
+  head
+    include ../../inc/head
+  body
+
+    include ../../inc/header
+    
+    .content
+      .box
+        .box__content
+          div(class="box__head")
+            div(class="semititle" data-txt="overview.title")
+            a(href="../../home.html" class="box__link" data-txt="home.link")
+          p(class="box__p" data-txt="overview.p1")
+          p(class="box__p" data-txt="overview.p2")
+          div.box__img
+            img(src="../images/a.jpg")
+          p(class="box__p" data-txt="overview.p3")
+          p(class="box__p" data-txt="overview.p4")
+          p(class="box__p" data-txt="overview.p5")
+          div.box__src
+            a(href="https://www.cdc.gov/coronavirus/2019-ncov/cdcresponse/about-COVID-19.html" target="_blank" data-txt="overview.source")
+
+    include ../../inc/scripts

@@ -1,0 +1,52 @@
+doctype
+html
+  head
+    include ../../inc/head
+  body
+
+    include ../../inc/header
+    
+    .content
+      .box
+        .box__content
+          div(class="box__head")
+            div(class="semititle" data-txt="statistics.title")
+            a(href="../../home.html" class="box__link" data-txt="home.link")
+          .space
+          div(class="box__p statistics")
+            div(class="value__title" data-txt="statistics.va")
+            div.box__value
+              div#wv1.semititle
+              span(data-txt="statistics.v1")
+            div.box__value
+              div#wv2.semititle
+              span(data-txt="statistics.v2")
+            div.box__value
+              div#wv3.semititle
+              span(data-txt="statistics.v3")
+            div.box__value
+              div#wv4.semititle
+              span(data-txt="statistics.v4")
+            div#wvd.value__detail 4654564
+            .space
+          div(class="box__p statistics")
+            .space
+            div(class="value__title" data-txt="statistics.vb")
+            div.box__value
+              div#ev1.semititle
+              span(data-txt="statistics.v1")
+            div.box__value
+              div#ev2.semititle
+              span(data-txt="statistics.v2")
+            div.box__value
+              div#ev3.semititle
+              span(data-txt="statistics.v3")
+            div.box__value
+              div#ev4.semititle
+              span(data-txt="statistics.v4")
+            div#evd.value__detail
+          div(class="box__p loading loader__icon")
+            img(src=path+"/images/virus.png")
+          div(class="box__p semititle failed" data-txt="statistics.failed")
+
+    include ../../inc/scripts

@@ -1,0 +1,83 @@
+
+// import properties file
+@import imp/props
+
+
+// en font
+@font-face
+  font-family: en
+  src: url('../fonts/en.otf')
+
+// ar font
+@font-face
+  font-family: ar
+  src: url('../fonts/ar.ttf')
+
+
+.--en
+  font-family: en
+
+.--alt-font
+  font-family: ar
+
+
+
+::-webkit-scrollbar
+  width: 16px
+
+::-webkit-scrollbar-track
+  background: var(--color-dark)
+
+::-webkit-scrollbar-thumb
+  background: var(--color-main)
+
+::-webkit-scrollbar-thumb:hover
+  background: var(--color-light)
+
+
+// body styling
+body
+  margin: 0
+  padding: 10px
+  font-family: var(--font)
+  direction: var(--ltr)
+  background-color: var(--color-dark)
+  color: var(--color-light)
+  overflow-x: hidden
+  overflow-y: hidden
+
+
+// content styling
+.content
+  opacity: 0
+
+
+@keyframes content--show
+  0%
+    opacity: 0
+  100%
+    opacity: 1
+
+
+// space
+.space
+  padding: 10px 0
+
+
+// title styling
+.title
+  color: var(--color-main)
+  text-align: center
+  font-size: 2.5em
+  user-select: none
+
+// subtitle styling
+.semititle
+  color: var(--color-main)
+  font-size: 1.8em
+  user-select: none
+
+
+
+// import elements
+@import 'imp/loader', 'imp/btns', 'imp/box'
