@@ -8,4 +8,4 @@ a Simple CoronaVirus-19 Overview Project
 * JavaScript
 
 ## LICENCE
-The Project is under MIT Licence, Consider Checking LICENSE.md File
+The Project is under MIT Licence, Consider Checking LICENCE.md File
