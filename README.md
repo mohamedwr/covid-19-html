@@ -7,5 +7,5 @@ a Simple CoronaVirus-19 Overview Project
 * Sass
 * JavaScript
 
-## License
+## LICENCE
 The Project is under MIT Licence, Consider Checking LICENSE.md File
