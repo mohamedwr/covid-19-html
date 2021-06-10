@@ -1,6 +1,6 @@
 
 # covid-19-html
-a Simple CoronaVirus-19 Overview Project
+a Simple COVID-19 Overview Website made using PugJS, Sass and JavaScript
 
 ## Technologies Used
 * PugJS
