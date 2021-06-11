@@ -12,8 +12,8 @@ a Simple COVID-19 Overview Website made using PugJS, Sass and JavaScript
 * [nicescroll](https://github.com/inuyaksa/jquery.nicescroll) under MIT License
 
 ## Fonts Used
-* [Tajawal](https://fonts.google.com/specimen/Tajawal)
-* [Noto Sans JP](https://fonts.google.com/specimen/Noto+Sans+JP)
+* [Tajawal](https://fonts.google.com/specimen/Tajawal) OFL
+* [Noto Sans JP](https://fonts.google.com/specimen/Noto+Sans+JP) OFL
 
 ## LICENSE
 The Project is under MIT License, Consider Checking LICENSE.md File
