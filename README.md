@@ -1,4 +1,6 @@
 
+The Project was made in 2021 and it is currently Closed
+
 # covid-19-html
 a Simple COVID-19 Overview Website made using PugJS, Sass and JavaScript
 
