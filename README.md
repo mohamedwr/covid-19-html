@@ -5,8 +5,8 @@ The Project was made in 2021 and it is currently Closed
 a Simple COVID-19 Overview Website made using PugJS, Sass and JavaScript
 
 ## Technologies Used
-* PugJS
-* Sass
+* [PugJS](https://pugjs.org) under MIT License
+* [Sass](https://sass-lang.com) under MIT License
 * JavaScript
 
 ## Used Libraries
