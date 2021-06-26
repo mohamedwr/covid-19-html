@@ -18,4 +18,4 @@ a Simple COVID-19 Overview Website made using PugJS, Sass and JavaScript
 * [Noto Sans JP](https://fonts.google.com/specimen/Noto+Sans+JP) OFL
 
 ## LICENSE
-The Project is under MIT License, Consider Checking LICENSE.md File
+The Project is under MIT License, Consider Checking LICENSE File
